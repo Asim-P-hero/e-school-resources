@@ -1,0 +1,98 @@
+body{
+    margin-top: 50px;
+}
+#signin{
+    background-color: green;
+    border-radius: 33px;
+    padding: 5px 15px;
+}
+.first-section{
+    padding: 50px;
+}
+
+.left-text{
+    color: #FD511A;
+    font-size: 18px;
+}
+.first-section h1{
+    line-height: 1.5em;
+    font-weight: bold;
+
+}
+.silder-text{
+    color: #21B573;
+    font-weight: bold;
+}
+.site-text-bottom{
+    color: grey;
+}
+#button{
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+.card img{
+    width: 30%;
+}
+.card{
+    border: none;
+    background-color: unset;
+    
+}
+#first-icon{
+    text-align: center;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+#second-icon{
+    text-align: center;
+    background-color: #FFFFFF;
+    box-shadow: 5px 10px 20px;
+    border-radius: 10px;
+}
+#third-icon{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+#fourth-icon{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.card img{
+    width: 70%;
+    margin: 50px 50px;
+}
+
+
+.container-service h4{
+    margin-top: 50px;
+    text-align: center;
+}
+.container-testimonial{
+    margin-top: 50px;
+}
+.testimonial-text{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.testimonial-man img{
+    margin: auto;
+}
+
+
+#footer-area{
+    margin-top: 50px;
+    background-color: #282531;
+    color: #ffffff;
+    padding: 30px;
+}
+
+
+.footer-content{
+    font-size: 14px;
+    padding-top: 50px;
+}
+
+.copyright-text{
+    padding-top: 20px;
+}
